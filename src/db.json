@@ -1,0 +1,30 @@
+{
+
+  "folha": [
+    {"id": 1,
+  "IdEmpresa": "1",
+  "DataFechamento": "2023-10-10",
+  "DataPagamento": "2023-11-01",
+  "TotalVencimentos": 1000,
+  "TotalDescontos":100,
+  "TotalLiquido": 900,
+  "IdFuncionario": "1",
+  "SalarioINSS": 800,
+  "ValorFGTS": 50,
+  "ListaBDFuncionario":"teste",
+  "Ativo":1},
+
+  {"id": 2,
+  "IdEmpresa": "2",
+  "DataFechamento": "2023-10-11",
+  "DataPagamento": "2023-11-02",
+  "TotalVencimentos": 2000,
+  "TotalDescontos":200,
+  "TotalLiquido": 1000,
+  "IdFuncionario": "2",
+  "SalarioINSS": 800,
+  "ValorFGTS": 50,
+  "ListaBDFuncionario":"teste 2",
+  "Ativo":1}
+  ]
+}
